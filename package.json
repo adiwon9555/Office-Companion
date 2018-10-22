@@ -1,0 +1,43 @@
+{
+  "name": "PlaybookBot",
+  "version": "1.0.0",
+  "description": "chatbot about playbook",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thayumaanavan/electron-chatbot-template.git"
+  },
+  "keywords": [
+    "chatbot",
+    "template",
+    "tutorial"
+  ],
+  "author": "Thayumaanavan",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/thayumaanavan/electron-chatbot-template/issues"
+  },
+  "homepage": "https://github.com/thayumaanavan/electron-chatbot-template/issues#readme",
+  "devDependencies": {
+    "electron": "^1.8.6",
+    "electron-packager": "^12.0.2"
+  },
+  "dependencies": {
+    "casperjs": "^1.1.4",
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "json2xls": "^0.1.2",
+    "jsonfile": "^2.4.0",
+    "node-cmd": "^3.0.0",
+    "officegen": "^0.4.5",
+    "open": "0.0.5",
+    "openurl": "^1.1.1",
+    "opn": "^5.3.0",
+    "path": "^0.12.7",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "yarn": "^1.6.0"
+  }
+}
